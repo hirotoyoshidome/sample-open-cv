@@ -1,0 +1,17 @@
+.idea/
+.gradle/
+build/
+gradle/
+*.iml
+gradlew
+gradlew.bat
+/.project
+/.classpath
+/target/
+/bin/
+/.classpath
+/.project
+.settings/
+opencv/
+
+MANIFEST.MF
